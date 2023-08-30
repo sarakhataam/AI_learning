@@ -6,3 +6,5 @@
 <p>some inforamtion I knew when I researched and some exercises by python. </p>
 #task_3:
 <p>some information relate to OS. </p>
+#task_4:
+<p>some information about graph traversal and algorithm,If a hash function assigns the same location to two elements, what is the solution?,lambda expression and What is code refactoring?</p>
